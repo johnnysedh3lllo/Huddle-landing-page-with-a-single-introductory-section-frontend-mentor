@@ -45,7 +45,7 @@ this was another means to practice the use of CSS Grid.
 
 
 ### Continued development
-in other projects i will focused more on building websites with responsive layouts.
+in other projects i will focus more on building websites with responsive layouts.
 
 ### Author
 - GitHub - [johnnysedh3lllo] (https://github.com/johnnysedh3lllo)
