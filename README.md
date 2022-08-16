@@ -24,11 +24,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]
-(https://www.frontendmentor.io/solutions/mobilefirst-huddle-landing-page-built-with-css-flexbox-AbsG9bw-Hi)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobilefirst-huddle-landing-page-built-with-css-flexbox-AbsG9bw-Hi)
 
-- Live Site URL: [GitHub]
-(https://johnnysedh3lllo.github.io/Huddle-landing-page-with-a-single-introductory-section-frontend-mentor/)
+- Live Site URL: [GitHub](https://johnnysedh3lllo.github.io/Huddle-landing-page-with-a-single-introductory-section-frontend-mentor/)
 
 
 ## My process
@@ -48,8 +46,8 @@ this was another means to practice the use of CSS Grid.
 in other projects i will focus more on building websites with responsive layouts.
 
 ### Author
-- GitHub - [johnnysedh3lllo] (https://github.com/johnnysedh3lllo)
+- GitHub - [johnnysedh3lllo](https://github.com/johnnysedh3lllo)
 
-- Frontend Mentor - [@johnnysedh3lllo] (https://www.frontendmentor.io/profile/johnnysedh3lllo)
+- Frontend Mentor - [@johnnysedh3lllo](https://www.frontendmentor.io/profile/johnnysedh3lllo)
 
 - Twitter - [@johnnysedh3lllo](https://www.twitter.com/johnnysedh3lllo)
